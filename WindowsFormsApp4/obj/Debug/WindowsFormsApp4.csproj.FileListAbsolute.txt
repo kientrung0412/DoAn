@@ -1,0 +1,14 @@
+E:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\DoAn\WindowsFormsApp4\bin\Debug\mscorlib.dll
+E:\DoAn\WindowsFormsApp4\bin\Debug\normidna.nlp
+E:\DoAn\WindowsFormsApp4\bin\Debug\normnfc.nlp
+E:\DoAn\WindowsFormsApp4\bin\Debug\normnfd.nlp
+E:\DoAn\WindowsFormsApp4\bin\Debug\normnfkc.nlp
+E:\DoAn\WindowsFormsApp4\bin\Debug\normnfkd.nlp
+E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
