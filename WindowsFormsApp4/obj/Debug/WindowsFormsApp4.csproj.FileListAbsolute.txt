@@ -1,0 +1,9 @@
+D:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
