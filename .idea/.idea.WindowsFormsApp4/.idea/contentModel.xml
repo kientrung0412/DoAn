@@ -1,18 +1,33 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\This PC\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\This PC\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WindowsFormsApp4.1558477544.00" t="ExcludeRecursive" />
     <e p="C:\Users\This PC\Desktop\New folder (2)\DoAn" t="IncludeFlat">
+=======
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nguye\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\nguye\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\nguye\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nguye\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WindowsFormsApp4.-1190470793.00" t="ExcludeRecursive" />
+    <e p="D:\DoAn" t="IncludeFlat">
+>>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
       <e p="packages" t="ExcludeRecursive" />
       <e p="WindowsFormsApp4" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
+<<<<<<< HEAD
         <e p="Home.cs" t="Include" />
         <e p="Home.Designer.cs" t="Include" />
         <e p="Home.resx" t="Include" />
+=======
+        <e p="Form1.resx" t="Include" />
+>>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
