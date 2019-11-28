@@ -2,9 +2,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+<<<<<<< HEAD
     <e p="C:\Users\Sam\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Sam\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WindowsFormsApp4.-1445207338.00" t="ExcludeRecursive" />
     <e p="E:\DoAn" t="IncludeFlat">
+=======
+    <e p="C:\Users\This PC\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\This PC\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WindowsFormsApp4.1558477544.00" t="ExcludeRecursive" />
+    <e p="C:\Users\This PC\Desktop\New folder (2)\DoAn" t="IncludeFlat">
+>>>>>>> 413cedcd329c1e07735a3f082f35dd08b43fcd9b
 =======
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
@@ -22,12 +28,18 @@
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <e p="FrmNhanVien.cs" t="Include" />
         <e p="FrmNhanVien.Designer.cs" t="Include" />
         <e p="FrmNhanVien.resx" t="Include" />
         <e p="Login.cs" t="Include" />
         <e p="Login.Designer.cs" t="Include" />
         <e p="Login.resx" t="Include" />
+=======
+        <e p="Home.cs" t="Include" />
+        <e p="Home.Designer.cs" t="Include" />
+        <e p="Home.resx" t="Include" />
+>>>>>>> 413cedcd329c1e07735a3f082f35dd08b43fcd9b
 =======
         <e p="Form1.resx" t="Include" />
 >>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8

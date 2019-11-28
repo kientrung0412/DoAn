@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 E:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
 E:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
 E:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
@@ -13,6 +14,17 @@ E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resourc
 E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
 E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
 E:\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+=======
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\This PC\Desktop\New folder (2)\DoAn\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Home.resources
+>>>>>>> 413cedcd329c1e07735a3f082f35dd08b43fcd9b
 =======
 D:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
 D:\DoAn\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
