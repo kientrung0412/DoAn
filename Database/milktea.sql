@@ -11,7 +11,7 @@
  Target Server Version : 14001000
  File Encoding         : 65001
 
- Date: 28/11/2019 14:04:50
+ Date: 28/11/2019 19:33:07
 */
 
 
@@ -47,7 +47,8 @@ CREATE TABLE [main].[employess] (
   [birth] date  NULL,
   [address] nvarchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS  NULL,
   [phone] nvarchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS  NOT NULL,
-  [idPosison] int  NOT NULL
+  [idPosison] int  NOT NULL,
+  [password] varchar(255) COLLATE SQL_Hungarian_CP1250_CS_AS  NOT NULL
 )
 GO
 
@@ -253,7 +254,7 @@ GO
 -- ----------------------------
 -- Auto increment value for employess
 -- ----------------------------
-DBCC CHECKIDENT ('[main].[employess]', RESEED, 2)
+DBCC CHECKIDENT ('[main].[employess]', RESEED, 3)
 GO
 
 

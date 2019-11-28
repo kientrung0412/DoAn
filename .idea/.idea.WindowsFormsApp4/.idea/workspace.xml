@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e87faa-357c-4bdc-9171-a91cb35c662a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,5 +112,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
