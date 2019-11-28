@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ContentModelStore">
-<<<<<<< HEAD
-    <e p="C:\Users\Sam\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Sam\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WindowsFormsApp4.-1445207338.00" t="ExcludeRecursive" />
-    <e p="E:\DoAn" t="IncludeFlat">
-=======
-    <e p="C:\Users\This PC\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\This PC\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WindowsFormsApp4.1558477544.00" t="ExcludeRecursive" />
-    <e p="C:\Users\This PC\Desktop\New folder (2)\DoAn" t="IncludeFlat">
->>>>>>> 413cedcd329c1e07735a3f082f35dd08b43fcd9b
-=======
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
@@ -20,29 +6,13 @@
     <e p="C:\Users\nguye\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\nguye\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WindowsFormsApp4.-1190470793.00" t="ExcludeRecursive" />
     <e p="D:\DoAn" t="IncludeFlat">
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
       <e p="packages" t="ExcludeRecursive" />
       <e p="WindowsFormsApp4" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <e p="FrmNhanVien.cs" t="Include" />
-        <e p="FrmNhanVien.Designer.cs" t="Include" />
-        <e p="FrmNhanVien.resx" t="Include" />
-        <e p="Login.cs" t="Include" />
-        <e p="Login.Designer.cs" t="Include" />
-        <e p="Login.resx" t="Include" />
-=======
-        <e p="Home.cs" t="Include" />
-        <e p="Home.Designer.cs" t="Include" />
-        <e p="Home.resx" t="Include" />
->>>>>>> 413cedcd329c1e07735a3f082f35dd08b43fcd9b
-=======
         <e p="Form1.resx" t="Include" />
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
@@ -52,18 +22,6 @@
           <e p="Settings.Designer.cs" t="Include" />
           <e p="Settings.settings" t="Include" />
         </e>
-<<<<<<< HEAD
-        <e p="Resources" t="Include">
-          <e p="_1_04_128.png" t="Include" />
-          <e p="_1_04_1281.png" t="Include" />
-          <e p="icon_key_128.png" t="Include" />
-          <e p="icon_key_1281.png" t="Include" />
-          <e p="icon_key_1282.png" t="Include" />
-          <e p="v.png" t="Include" />
-          <e p="x.png" t="Include" />
-        </e>
-=======
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
         <e p="WindowsFormsApp4.csproj" t="IncludeRecursive" />
       </e>
       <e p="WindowsFormsApp4.sln" t="IncludeFlat" />

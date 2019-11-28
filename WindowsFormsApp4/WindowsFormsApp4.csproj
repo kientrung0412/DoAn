@@ -52,45 +52,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <Compile Include="FrmNhanVien.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmNhanVien.Designer.cs">
-      <DependentUpon>FrmNhanVien.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Login.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Login.Designer.cs">
-      <DependentUpon>Login.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmNhanVien.resx">
-      <DependentUpon>FrmNhanVien.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
-      <DependentUpon>Login.cs</DependentUpon>
-=======
-    <Compile Include="Home.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Home.Designer.cs">
-      <DependentUpon>Home.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Home.resx">
-      <DependentUpon>Home.cs</DependentUpon>
->>>>>>> 413cedcd329c1e07735a3f082f35dd08b43fcd9b
-=======
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -114,17 +79,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-<<<<<<< HEAD
-  <ItemGroup>
-    <Content Include="Resources\icon_key_128.png" />
-    <Content Include="Resources\icon_key_1281.png" />
-    <Content Include="Resources\icon_key_1282.png" />
-    <Content Include="Resources\v.png" />
-    <Content Include="Resources\x.png" />
-    <Content Include="Resources\_1_04_128.png" />
-    <Content Include="Resources\_1_04_1281.png" />
-  </ItemGroup>
-=======
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

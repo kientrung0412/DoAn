@@ -1,53 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <list default="true" id="8eb5f6b7-1fed-4263-905e-00bbc01eadce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/FrmNhanVien.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/FrmNhanVien.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Image/1-04-128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Image/icon-key-128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Image/v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Image/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Login.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Login.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Resources/_1_04_128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Resources/_1_04_1281.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Resources/icon_key_128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Resources/icon_key_1281.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Resources/icon_key_1282.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/WindowsFormsApp4.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/WindowsFormsApp4.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/WindowsFormsApp4.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/mscorlib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/normidna.nlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/normnfc.nlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/normnfd.nlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/normnfkc.nlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/normnfkd.nlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.Properties.Resources.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csproj.GenerateResource.Cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Properties/Resources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Properties/Resources.resx" afterDir="false" />
-=======
-    <list default="true" id="70ee4b07-61a1-4aa8-8f7d-a19fda29b2bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Home.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/workspace.xml" afterDir="false" />
->>>>>>> 413cedcd329c1e07735a3f082f35dd08b43fcd9b
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/WindowsFormsApp4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/WindowsFormsApp4.csproj" afterDir="false" />
-=======
     <list default="true" id="67e87faa-357c-4bdc-9171-a91cb35c662a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" afterDir="false" />
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,99 +10,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="WindowsFormsApp4" />
-  </component>
-=======
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-<<<<<<< HEAD
-    <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Home.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Home.cs" root0="FORCE_HIGHLIGHTING" />
-=======
-    <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" root0="FORCE_HIGHLIGHTING" />
-<<<<<<< HEAD
-    <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/FrmNhanVien.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/FrmNhanVien.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Login.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-=======
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/App.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Form1.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Properties/Resources.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/WindowsFormsApp4/Login.Designer.cs" />
-        <option value="$PROJECT_DIR$/WindowsFormsApp4/Image.Designer.cs" />
-        <option value="$PROJECT_DIR$/WindowsFormsApp4/Login.cs" />
-        <option value="$PROJECT_DIR$/WindowsFormsApp4/FrmNhanVien.Designer.cs" />
-=======
-        <option value="$PROJECT_DIR$/WindowsFormsApp4/Home.Designer.cs" />
-        <option value="$PROJECT_DIR$/WindowsFormsApp4/Home.cs" />
->>>>>>> 413cedcd329c1e07735a3f082f35dd08b43fcd9b
-=======
         <option value="$PROJECT_DIR$/WindowsFormsApp4/Form1.Designer.cs" />
         <option value="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" />
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1TojsYi4n6n1nysuwzQgbae8dRH" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-<<<<<<< HEAD
-    <property name="DatabaseDriversLRU" value="mysql" />
-=======
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-<<<<<<< HEAD
-    <property name="ignore.virus.scanning.warn.message" value="true" />
-=======
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-<<<<<<< HEAD
-=======
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,23 +81,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="8eb5f6b7-1fed-4263-905e-00bbc01eadce" name="Default Changelist" comment="" />
-      <created>1574682832623</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1574682832623</updated>
-      <workItem from="1574682834315" duration="91000" />
-      <workItem from="1574683161041" duration="300000" />
-      <workItem from="1574685421784" duration="161000" />
-      <workItem from="1574685726380" duration="113000" />
-      <workItem from="1574693172890" duration="147000" />
-      <workItem from="1574696265036" duration="1124000" />
-      <workItem from="1574747116295" duration="2260000" />
-      <workItem from="1574907545684" duration="400000" />
-      <workItem from="1574908038595" duration="1799000" />
-      <workItem from="1574910324611" duration="6577000" />
-=======
       <changelist id="67e87faa-357c-4bdc-9171-a91cb35c662a" name="Default Changelist" comment="" />
       <created>1574682180748</created>
       <option name="number" value="Default" />
@@ -213,78 +91,6 @@
       <workItem from="1574751250163" duration="123000" />
       <workItem from="1574751960412" duration="390000" />
       <workItem from="1574924436179" duration="783000" />
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-<<<<<<< HEAD
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-=======
->>>>>>> 0a5dddc669bbbbcfa7406668ce24772fb9a214a8
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/WindowsFormsApp4.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WindowsFormsApp4/WindowsFormsApp4.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="70ee4b07-61a1-4aa8-8f7d-a19fda29b2bb" name="Default Changelist" comment="" />
-      <created>1574683119156</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1574683119156</updated>
-      <workItem from="1574683122213" duration="329000" />
-      <workItem from="1574683492806" duration="3399000" />
     </task>
     <servers />
   </component>
