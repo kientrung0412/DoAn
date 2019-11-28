@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e87faa-357c-4bdc-9171-a91cb35c662a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Form1.Designer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/WindowsFormsApp4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/WindowsFormsApp4.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +90,7 @@
       <workItem from="1574683492164" duration="5605000" />
       <workItem from="1574751250163" duration="123000" />
       <workItem from="1574751960412" duration="390000" />
-      <workItem from="1574924436179" duration="606000" />
+      <workItem from="1574924436179" duration="783000" />
     </task>
     <servers />
   </component>

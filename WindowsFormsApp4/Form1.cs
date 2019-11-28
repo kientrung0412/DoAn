@@ -22,7 +22,7 @@ namespace WindowsFormsApp4
                 btn.Margin = new Padding(3);
                 btn.Size = new Size(95, 35);
                 btn.UseVisualStyleBackColor = true;
-                panel1.Controls.Add(btn);
+                this.Controls.Add(btn);
             }
         }
 
