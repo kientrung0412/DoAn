@@ -11,7 +11,6 @@ namespace WindowsFormsApp4.Imp
             String connString = "Data Source=localhost,1433;Initial Catalog=milktea;User ID=SA;Password=1234";
             SqlConnection connection = new SqlConnection(connString);
             return connection;
-
         }
         
     }

@@ -10,11 +10,15 @@
       <e p="WindowsFormsApp4" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Entity" t="Include">
+          <e p="Employess.cs" t="Include" />
+        </e>
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
         <e p="Form1.resx" t="Include" />
-        <e p="Imp" t="Include">
+        <e p="Model" t="Include">
           <e p="ConnDB.cs" t="Include" />
+          <e p="mdEmployess.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
