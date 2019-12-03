@@ -11,12 +11,9 @@ namespace WindowsFormsApp4.Imp
         {
             var conn = Conn();
             conn.Open();
-
-            String sql = "select * from main.employess WHERE main.employess.phone = "
-                         + employess.Phone
-                         + " AND  main.employess.password = "
-                         + employess.Passsword;
-                         
+            
+            String sql = String.Format("select * from main.employess WHERE main.employess.phone = {0}  AND  main.employess.password = {1}", employess.Phone, employess.Passsword);
+            
             SqlCommand command = new SqlCommand();
             command.CommandText = sql;
             command.Connection = conn;

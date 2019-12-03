@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e87faa-357c-4bdc-9171-a91cb35c662a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Entity/Employess.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowsFormsApp4/Model/mdEmployess.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Form1.Designer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Form1.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Imp/ConnDB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Model/ConnDB.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/WindowsFormsApp4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/WindowsFormsApp4.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/WindowsFormsApp4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/WindowsFormsApp4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/WindowsFormsApp4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/bin/Debug/WindowsFormsApp4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.Form1.resources" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.Form1.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/Model/mdEmployess.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/Model/mdEmployess.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csproj.GenerateResource.Cache" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.csproj.GenerateResource.Cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp4/obj/Debug/WindowsFormsApp4.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +45,6 @@
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Model/ConnDB.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Properties/Resources.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Entity/Employess.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsApp4/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -69,8 +56,8 @@
         <option value="$PROJECT_DIR$/WindowsFormsApp4/Imp/ConnDB.cs" />
         <option value="$PROJECT_DIR$/WindowsFormsApp4/Program.cs" />
         <option value="$PROJECT_DIR$/WindowsFormsApp4/Entity/Employess.cs" />
-        <option value="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" />
         <option value="$PROJECT_DIR$/WindowsFormsApp4/Model/ConnDB.cs" />
+        <option value="$PROJECT_DIR$/WindowsFormsApp4/Form1.cs" />
         <option value="$PROJECT_DIR$/WindowsFormsApp4/Model/mdEmployess.cs" />
       </list>
     </option>
@@ -166,7 +153,9 @@
       <workItem from="1575111879908" duration="145000" />
       <workItem from="1575202214393" duration="2436000" />
       <workItem from="1575284735941" duration="1635000" />
-      <workItem from="1575287570642" duration="5215000" />
+      <workItem from="1575287570642" duration="6049000" />
+      <workItem from="1575360265231" duration="1184000" />
+      <workItem from="1575377586284" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="Sửa database">
       <created>1575027216455</created>
@@ -182,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575027317707</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Phương thức đăng nhập">
+      <created>1575293234803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575293234803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +203,8 @@
     <MESSAGE value="kết nối database" />
     <MESSAGE value="Sửa database" />
     <MESSAGE value="Kiết nối database" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kiết nối database" />
+    <MESSAGE value="Phương thức đăng nhập" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phương thức đăng nhập" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

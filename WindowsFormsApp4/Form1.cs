@@ -35,7 +35,15 @@ namespace WindowsFormsApp4
             Employess employess = new Employess();
             employess.Phone = "0835042790";
             employess.Passsword = "1234";
-            button1.Text = mdEmployess.Login(employess).ToString();
+            // nếu true thì cho đăng nhập
+            if (  mdEmployess.Login(employess))
+            {
+                //gọi form home
+            }
+            else
+            {
+                //thông báo llooix
+            }
         }
     }
 }
